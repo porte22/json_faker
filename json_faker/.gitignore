@@ -1,0 +1,4 @@
+./vendor/*
+./metadata/*
+./json_in/*
+./json_out/*
